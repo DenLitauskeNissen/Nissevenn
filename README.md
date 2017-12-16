@@ -1,6 +1,4 @@
-# Nissevenn17
-Vytenis
----
+# Vytenis
 Ah, the day has come
 
 Yes, the final one:
